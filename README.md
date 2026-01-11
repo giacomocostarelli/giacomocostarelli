@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Ciao, sono Giacomo Costarelli
 
-<!--
-**giacomocostarelli/giacomocostarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | Cloud Engineer**
 
-Here are some ideas to get you started:
+Sono un *Cloud & Data Engineer* con esperienza nella progettazione e gestione di architetture dati scalabili. Lavoro su pipeline di data ingestion, processing e analytics, con particolare attenzione a **affidabilità, costi e automazione**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Cosa faccio
+
+* 📊 Progetto **data pipeline** end‑to‑end (batch & streaming)
+* ☁️ Disegno architetture **cloud-native*
+* ⚙️ Automatizzo infrastrutture con **IaC**
+* 🔍 Trasformo dati grezzi in insight utilizzabili
+* 💰 Ottimizzo costi e performance delle architetture
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & DevOps**
+
+* AWS (S3, Lambda, Glue, Athena, EMR, SageMaker, Step Functions, IAM)
+* Docker 🐳 | CI/CD
+* Infrastructure as Code (Terraform / CloudFormation)
+
+**Data Engineering**
+
+* Python 🐍 | PySpark
+* Databricks
+* SQL
+* ETL / ELT pipelines
+* Data Lakes & Data Warehouses
+
+**Altri strumenti**
+
+* Git & GitHub
+* Linux
+* Monitoring & Logging
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME\&show_icons=true\&theme=default)
+
+---
+
+## 🌍 Contatti
+
+* 💼 [LinkedIn]([https://www.linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/giacomo-costarelli/))
