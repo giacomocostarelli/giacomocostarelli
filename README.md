@@ -38,27 +38,6 @@ I am a *Data & Cloud Engineer* with experience in designing, developing, and man
 - Linux
 - Monitoring & Logging
 
----
-
-## 📌 Featured Projects
-
-🔹 **AWS Data Pipeline**  
-Cloud-native data architecture for ingesting, transforming, and analyzing large-scale datasets.
-
-🔹 **Image Data Extraction**  
-Image data extraction pipeline built on managed AWS services and serverless workflows.
-
-🔹 **Infrastructure Automation**  
-Infrastructure provisioning and management using Terraform and CI/CD pipelines.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giacomocostarelli&show_icons=true&theme=default)
-
----
-
 ## 🌍 Contacts
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/giacomo-costarelli/)
